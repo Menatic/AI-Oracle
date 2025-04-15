@@ -5,6 +5,8 @@
 
 A cosmic, esoteric AI experience where users interact with an Oracle to reveal symbols, receive prophetic riddles, and brush against forbidden knowledge.
 
+To view the live project : https://ai-oracle-seven.vercel.app/
+
 ---
 
 ## 🧠 What is this?
